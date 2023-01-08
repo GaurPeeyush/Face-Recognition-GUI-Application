@@ -56,16 +56,9 @@ List of all the users<br>
 
 ### Recognition <br>
 A webcam window will popup and start recognition proccess<br>
-![page4](https://i.ibb.co/sCtgDDC/4page.png)<br>
->![Face Recognition](https://i.ibb.co/bNpC5wR/jack.png)<br>
->![emotion](https://i.ibb.co/F7pdtjZ/emotion.png)<br>
->![Age and Gender](https://i.ibb.co/9q1L7sD/age.png)<br>
 
 
-
-<br><br>
-
-Made By ❤ : [JoeVenner](mailto:ylafrimi@gmail.com)<br>
+Made By ❤ : [Peeyush Gaur](https://github.com/GaurPeeyush)<br>
 **Free Software, Hell Yeah!**
 
 
