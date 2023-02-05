@@ -14,7 +14,7 @@ https://www.youtube.com/embed/3EBdT-0gvu8
 
   - Collect Face Data
   - Build Face Classifier 
-  - Detecte the face
+  - Detect the face
 
 #  New Features!
 
